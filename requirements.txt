@@ -1,6 +1,7 @@
-fastapi
+fastap
 uvicorn[standard]
 gunicorn
 PyPDF2
 google.generativeai
 python-multipart
+streamlit
