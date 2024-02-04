@@ -1,4 +1,3 @@
-fastap
 uvicorn[standard]
 gunicorn
 PyPDF2
