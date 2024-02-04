@@ -1,1 +1,4 @@
-
+fastapi
+uvicorn[standard]
+gunicorn
+PyPDF2
