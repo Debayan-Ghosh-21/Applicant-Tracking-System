@@ -4,3 +4,4 @@ gunicorn
 PyPDF2
 google.generativeai
 python-multipart
+streamlit
